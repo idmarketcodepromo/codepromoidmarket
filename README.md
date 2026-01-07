@@ -52,6 +52,18 @@ IDMarket est une plateforme de e-commerce qui se distingue par sa capacité à o
 ## Qu'est-ce qu'un code promo Idmarket ?
 Un code promo Idmarket est, tout simplement, une combinaison unique de chiffres et de lettres qui vous permet d'obtenir des remises ou des offres exclusives sur vos achats. C'est une manière intelligente et pratique d'allier économies et qualité. Vous vous demandez peut-être comment cela fonctionne exactement ? En entrant ce code lors de votre commande, vous bénéficiez immédiatement de la réduction indiquée. C'est un avantage non négligeable pour qui souhaite faire des économies sans se compliquer la vie.
 Au-delà de la simple économie, ce système offre aussi un sentiment d'exclusivité et de récompense pour les clients fidèles. Après tout, qui n'aime pas l'idée d'obtenir un petit bonus sur ses achats ?
+**Exemples de codes promo Idmarket expirés** :
+| Code Promo | Réduction | Date d’expiration |
+|-----------|-----------|-------------------|
+| PROMO5B   | 5 € de réduction | 31 octobre 2025 |
+| PROMO5B   | 10 € offerts | 15 août 2024 |
+| AFFFAR010 | 10 % de réduction | 5 septembre 2024 |
+| WELCOME10 | 10 % pour les nouveaux clients | 1 juin 2024 |
+| dke5226   | 50 % de remise (nouveaux clients) | 30 avril 2024 |
+| SPRINGSALE | 15 % de réduction (soldes) | 28 février 2024 |
+| XXXO5B    | 10 € de remise dès 200 € d’achat | 30 janvier 2024 |
+| PROMO5B   | 5 % sur la première commande (nouveaux clients) | 2 novembre 2023 |
+| INTLD01   | 5 % de réduction sur tout le site | 30 septembre 2023 |
 
 ## Comment utiliser un code promo Idmarket ?
 L'utilisation d'un code promo sur Idmarket est d'une simplicité déconcertante. D'abord, sélectionnez le code qui vous convient parmi les offres disponibles. Puis, lors du passage en caisse, repérez le champ prévu à cet effet et saisissez-y le code.
